@@ -1,4 +1,4 @@
-# 🛒 Asistente Inteligente H-E-B México (ChatBot)
+# 🛒 Asistente Inteligente (ChatBot)
 
 Sistema de consulta y analítica gerencial para directores y gerentes de tienda de H-E-B México. Permite analizar ventas, inventarios, infraestructura, tickets y políticas operativas a través de modelos de lenguaje mediante OpenRouter.
 
